@@ -1,2 +1,2 @@
 # phantom-core
-core wallet for phantom
+core wallet for phantom keys
